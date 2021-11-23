@@ -1,27 +1,25 @@
 ---
 marp: true
 title: Открытый репозиторий Инструменты исследователя
-description: Hosting Marp slide deck on the web
-theme: uncover
+description: Презентация пилотного запуска
+theme: mephi
 paginate: true
 _paginate: false
 ---
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Открытый репозиторий "Инструменты исследователя"
 
 Коллаборативная платформа Консорциума Университетов
 
-https://github.com/research-instruments
+[github.com/research-instruments](https://github.com/research-instruments/)
 
 <style scoped>a { color: #eee; }</style>
 
-<!-- This is presenter note. You can write down notes through HTML comment. -->
-
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![Marp bg 100%](./assets/site.png)
 
 ---
 
@@ -34,42 +32,35 @@ https://github.com/research-instruments
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+![bg right 50%](https://icongr.am/octicons/mark-github.svg)
 
-## **[GitHub Pages](https://github.com/pages)**
+## Кооперируйся
 
-#### Ready to write & host your deck!
+#### Организуй коллективный проект разработки утилит для науки на межуниверситетской github площадке!
 
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+Привлекай помощников в разработке и управляй командой в [github projects](https://github.com/orgs/research-instruments/projects?type=beta)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+![bg right 60%](./assets/tools.png)
 
-## **[Vercel](https://vercel.com/)**
+## **Поделись полезными "трафаретами"**
 
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+#### Размещай полезные шаблоны LaTeX для публикаций, постеров, отчетов
 
 ---
 
-### <!--fit--> :ok_hand:
+![bg right 60%](./assets/tools.png)
+
+## **Поделись полезными "трафаретами"**
+
+#### Размещай полезные шаблоны LaTeX для публикаций, постеров, отчетов
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+## **Создавай учебные материалы для начинающих исследователей**
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+![bg right 40%](./assets/college-degree-icon-3.jpg)
 
-https://github.com/yhatt/marp-cli-example
+#### Составь и размести авторский урок для освоения используемых тобой избранных научных инструментов
+---

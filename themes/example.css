@@ -6,3 +6,10 @@ section {
   background: #cef;
   color: #135;
 }
+
+@import 'mephi';
+
+section {
+  background: #9DF4FF;
+  color: #0057B8;
+}
