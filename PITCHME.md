@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Marp CLI example
+title: Открытый репозиторий Инструменты исследователя
 description: Hosting Marp slide deck on the web
 theme: uncover
 paginate: true
@@ -11,9 +11,9 @@ _paginate: false
 
 # <!--fit--> Marp CLI example
 
-Hosting Marp slide deck on the web
+Коллаборативная платформа Консорциума Университетов
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/research-instruments
 
 <style scoped>a { color: #eee; }</style>
 
