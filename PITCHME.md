@@ -2,7 +2,7 @@
 marp: true
 title: Открытый репозиторий Инструменты исследователя
 description: Презентация пилотного запуска
-theme: maphi
+theme: mephi
 paginate: true
 _paginate: false
 ---
@@ -14,6 +14,8 @@ _paginate: false
 Открытая коллаборативная платформа Консорциума Университетов
 
 [github.com/research-instruments](https://github.com/research-instruments/)
+
+[Наш сайт](https://research-instruments.github.io/)
 
 <style scoped>a { color: #eee; }</style>
 
