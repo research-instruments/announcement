@@ -2,7 +2,7 @@
 marp: true
 title: Открытый репозиторий Инструменты исследователя
 description: Презентация пилотного запуска
-theme: mephi
+theme: default
 paginate: true
 _paginate: false
 ---
