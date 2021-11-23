@@ -1,15 +1,20 @@
 /* @theme example */
 
-@import 'uncover';
+/* @import 'uncover';
 
 section {
   background: #cef;
   color: #135;
-}
+} */
 
 @import 'mephi';
 
 section {
-  background: #EC5944;
+  background: #9DF4FF;
   color: #0057B8;
+}
+
+h1 {
+  font-size: 30px;
+  color: #EC5944;
 }
